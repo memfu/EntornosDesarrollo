@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-18T15:56:49.841Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/113.0" etag="ON61q1ldQ7YiwndI9sPL" version="21.3.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-18T15:57:07.608Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/113.0" etag="rKc7qoXnq9XRkO_TSvFd" version="21.3.0" type="github">
   <diagram name="Page-1" id="pTc8qVfQxKfmeEwoTJtu">
     <mxGraphModel dx="1411" dy="769" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -206,7 +206,7 @@
         <mxCell id="wT2hEgxZ2jl30o9yvn4_-88" value="Obtener informe" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="750" y="560" width="140" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="EGmICfP2dhzSAQ1n8TOm-7" value="&lt;div&gt;&lt;b&gt;extension points&lt;/b&gt;&lt;/div&gt;&lt;div&gt;Obtener informe&lt;br&gt;&lt;/div&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="EGmICfP2dhzSAQ1n8TOm-7" value="&lt;div&gt;&lt;b&gt;extension point&lt;/b&gt;&lt;/div&gt;&lt;div&gt;Obtener informe&lt;br&gt;&lt;/div&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="545" y="494" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="EGmICfP2dhzSAQ1n8TOm-8" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;endArrow=none;endFill=0;" parent="1" edge="1">
