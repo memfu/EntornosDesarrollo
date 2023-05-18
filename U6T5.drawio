@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-05-10T05:38:05.716Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/112.0" etag="3PF_gV6Y5HLe-eAw4Dx6" version="21.2.9" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-18T15:56:49.841Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/113.0" etag="ON61q1ldQ7YiwndI9sPL" version="21.3.0" type="github">
   <diagram name="Page-1" id="pTc8qVfQxKfmeEwoTJtu">
-    <mxGraphModel dx="1434" dy="769" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1411" dy="769" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -172,15 +172,15 @@
           <mxGeometry x="550" y="100" width="140" height="90" as="geometry" />
         </mxCell>
         <mxCell id="wT2hEgxZ2jl30o9yvn4_-72" value="Gestionar empleados" style="ellipse;whiteSpace=wrap;html=1;verticalAlign=top;" parent="wT2hEgxZ2jl30o9yvn4_-71" vertex="1">
-          <mxGeometry x="-50" width="190" height="90" as="geometry" />
+          <mxGeometry x="-50" y="10" width="190" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="wT2hEgxZ2jl30o9yvn4_-73" value="&lt;div&gt;&lt;b&gt;extension points&lt;/b&gt;&lt;/div&gt;&lt;div&gt;Obtener listados&lt;br&gt;&lt;/div&gt;&lt;div&gt;Modificar&lt;/div&gt;&lt;div&gt;Borrar&lt;br&gt;&lt;/div&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="wT2hEgxZ2jl30o9yvn4_-71" vertex="1">
-          <mxGeometry x="-20" y="40" width="130" height="30" as="geometry" />
+        <mxCell id="wT2hEgxZ2jl30o9yvn4_-73" value="&lt;div&gt;&lt;b&gt;ext. point &lt;/b&gt;Modificar perfil&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;ext. point&lt;/b&gt; Borrar perfil&lt;br&gt;&lt;/div&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="wT2hEgxZ2jl30o9yvn4_-71" vertex="1">
+          <mxGeometry x="-30" y="40" width="150" height="30" as="geometry" />
         </mxCell>
         <mxCell id="wT2hEgxZ2jl30o9yvn4_-74" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;endArrow=none;endFill=0;" parent="wT2hEgxZ2jl30o9yvn4_-71" edge="1">
           <mxGeometry width="80" relative="1" as="geometry">
-            <mxPoint x="-20" y="20" as="sourcePoint" />
-            <mxPoint x="110" y="20" as="targetPoint" />
+            <mxPoint x="-20" y="36" as="sourcePoint" />
+            <mxPoint x="110" y="36" as="targetPoint" />
             <Array as="points" />
           </mxGeometry>
         </mxCell>
@@ -192,7 +192,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="wT2hEgxZ2jl30o9yvn4_-76" value="Modificar empleado" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="wT2hEgxZ2jl30o9yvn4_-76" value="Modificar perfil" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="760" y="180" width="140" height="40" as="geometry" />
         </mxCell>
         <mxCell id="wT2hEgxZ2jl30o9yvn4_-77" value="&amp;lt;&amp;lt;extends&amp;gt;&amp;gt;" style="endArrow=open;endSize=16;endFill=0;html=1;rounded=0;dashed=1;entryX=0.9;entryY=0.8;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryPerimeter=0;" parent="1" source="7L0a7-6A81y4flegqMIZ-1" target="wT2hEgxZ2jl30o9yvn4_-72" edge="1">
@@ -205,14 +205,6 @@
         </mxCell>
         <mxCell id="wT2hEgxZ2jl30o9yvn4_-88" value="Obtener informe" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="750" y="560" width="140" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="EGmICfP2dhzSAQ1n8TOm-4" value="&amp;lt;&amp;lt;extends&amp;gt;&amp;gt;" style="endArrow=open;endSize=16;endFill=0;html=1;rounded=0;dashed=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" source="wT2hEgxZ2jl30o9yvn4_-27" target="wT2hEgxZ2jl30o9yvn4_-72" edge="1">
-          <mxGeometry x="0.0001" width="160" relative="1" as="geometry">
-            <mxPoint x="780" y="320" as="sourcePoint" />
-            <mxPoint x="730" y="270" as="targetPoint" />
-            <Array as="points" />
-            <mxPoint as="offset" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="EGmICfP2dhzSAQ1n8TOm-7" value="&lt;div&gt;&lt;b&gt;extension points&lt;/b&gt;&lt;/div&gt;&lt;div&gt;Obtener informe&lt;br&gt;&lt;/div&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="545" y="494" width="130" height="30" as="geometry" />
@@ -232,8 +224,14 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="7L0a7-6A81y4flegqMIZ-1" value="Borrar empleado" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="7L0a7-6A81y4flegqMIZ-1" value="Borrar perfil" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="725" y="240" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="os9KkpFX3i1Fx8gMvxuo-1" value="" style="endArrow=none;endFill=0;endSize=12;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="wT2hEgxZ2jl30o9yvn4_-14" target="wT2hEgxZ2jl30o9yvn4_-27">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="500" y="220" as="sourcePoint" />
+            <mxPoint x="620" y="220.5" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
